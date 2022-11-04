@@ -4,4 +4,4 @@ This is Kalytn Company Chanllenge
 
 ## To Start Test
 
-`npm test`
+run `npm test`
